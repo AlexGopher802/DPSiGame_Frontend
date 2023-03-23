@@ -1,0 +1,1 @@
+# DP Espada FAANG SiGame
